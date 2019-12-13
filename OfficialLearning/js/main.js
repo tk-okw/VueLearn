@@ -1,0 +1,11 @@
+(function() {
+    'use strinct';
+
+    // two way data binding (to UI)
+    var vm = new Vue({
+        el: '#app',
+        data: {
+            message: 'Hello World!'
+        }
+    });
+})();
