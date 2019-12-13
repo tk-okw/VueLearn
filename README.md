@@ -1,2 +1,2 @@
 # VueLearn
-Vue.js Leraning
+Vue.js Learning
